@@ -15,4 +15,3 @@ Este es un sistema de gestión de profesores que te permite realizar las siguien
 git clone https://github.com/tu-usuario/proyecto-profesores.git
 cd proyecto-profesores
 
-![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s--O2cjB-id--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/a3exuz06e9h212pandfr.png)
